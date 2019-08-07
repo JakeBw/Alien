@@ -32,5 +32,5 @@ To change your settings only edit the Settings.py file
 
 
 ## Todo
-I might add sounds, power ups like shields in front of your spaceship, have the aliens shoot back etc.
+I might add sounds, power ups like shields in front of your spaceship and have the aliens shoot back etc.
 Maybe :)
