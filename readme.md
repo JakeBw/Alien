@@ -1,7 +1,3 @@
-﻿# Alien
-An Alien Invasion game I am working on from the book "Python Crash Course" by Eric Matthes
-## My first attempts at Python
-This is my first attempt at understanding the Python language and it's me trying to expand my knowledge surrounding computer science.
 ## Config
 To change your settings only edit the Settings.py file
 
@@ -29,8 +25,3 @@ To change your settings only edit the Settings.py file
         self.alien_speed_factor = 1 # Alien movement speed (Left to right)
         self.fleet_direction = 1 # 1 is right, -1 is left
 ```
-
-
-## Todo
-I might add sounds, power ups like shields in front of your spaceship and have the aliens shoot back etc.
-Maybe :)
